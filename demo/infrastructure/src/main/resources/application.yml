@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: demo-application
+  profiles:
+    active: dev
+
+
+server:
+  port: 8081
