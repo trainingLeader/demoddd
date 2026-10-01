@@ -1,0 +1,4 @@
+com/demodd/domain/common/model/AggregateRootTest$TestDomainEvent.class
+com/demodd/domain/common/model/AggregateRootTest$TestAggregateRoot.class
+com/demodd/domain/country/model/aggregate/CountryTest.class
+com/demodd/domain/common/model/AggregateRootTest.class

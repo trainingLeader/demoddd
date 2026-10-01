@@ -21,7 +21,12 @@
     <dependency>
       <groupId>com.demodd</groupId>
       <artifactId>domain</artifactId>
-      <version>1.0.0-SNAPSHOT</version>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter</artifactId>
+      <scope>test</scope>
     </dependency>
   </dependencies>
 

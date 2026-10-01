@@ -1,0 +1,7 @@
+com/demodd/infrastructure/country/adapters/in/rest/dtos/CreateCountryRequest.class
+com/demodd/infrastructure/country/adapters/out/persistence/entity/CountryJpaEntity.class
+com/demodd/infrastructure/country/adapters/out/persistence/repositories/CountryJpaRepository.class
+com/demodd/infrastructure/country/adapters/out/persistence/mappers/CountryPersistenceMapper.class
+com/demodd/infrastructure/DemoApplication.class
+com/demodd/infrastructure/country/adapters/out/persistence/repositories/CountryRepositoryAdapter.class
+com/demodd/infrastructure/country/adapters/in/rest/dtos/UpdateCountryRequest.class
